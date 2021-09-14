@@ -1,0 +1,3 @@
+com\TruckApi\TruckApi\TruckApiApplication.class
+com\TruckApi\TruckApi\Controller\TruckController.class
+com\TruckApi\TruckApi\Properties\Swagger.class

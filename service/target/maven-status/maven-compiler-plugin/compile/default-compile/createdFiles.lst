@@ -1,0 +1,6 @@
+com\TruckApi\TruckApi\Constants\TruckConstants.class
+com\driver\service\DriverService.class
+com\driver\service\DriverServiceImpl.class
+com\driver\constantMessages\Constants.class
+com\TruckApi\TruckApi\Service\TruckService.class
+com\TruckApi\TruckApi\Service\TruckServiceImpl.class
